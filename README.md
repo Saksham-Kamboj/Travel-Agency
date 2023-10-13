@@ -18,9 +18,9 @@ I'm a Web developer...
 
 Go to github link and downlord zip file.
 
-Github Link--->>
+Github Link--->> https://github.com/Saksham-Kamboj/Travel-Agency.git
 
-# TravelGo
+# TRAVELTIME
 
 
 Embark on unforgettable journeys with our travel hub. Explore dream destinations, find the perfect accommodations, and plan seamless trips. Your gateway to adventure and discovery awaits. Start exploring now!
@@ -49,4 +49,4 @@ Embark on unforgettable journeys with our travel hub. Explore dream destinations
 ## Demo
 
 Insert gif or link to demo
-
+https://saksham-kamboj.github.io/Travel-Agency
